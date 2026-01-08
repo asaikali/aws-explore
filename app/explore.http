@@ -1,0 +1,2 @@
+###  Determine the identity of the user that the app is running under
+GET localhost:8080/
